@@ -1,0 +1,10 @@
+2.0
+03.09.2024
+Added Silent Aim
+Added Magic Bullet
+Added Rapid Fire
+Added Vehicle Plate
+Fix GodMode
+Fix AimBot
+Fix ESP
+Optimize
