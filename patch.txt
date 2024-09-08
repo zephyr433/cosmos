@@ -1,1 +1,2 @@
+2.0|08.09.2024|Fix AimBot,Fix Login
 2.0|03.09.2024|Added Silent Aim,Added Magic Bullet,Added Rapid Fire,Added Vehicle Plate,Fix AimBot,Fix ESP,Fix GodMode,Optimize
